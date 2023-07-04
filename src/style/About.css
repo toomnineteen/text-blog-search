@@ -1,0 +1,24 @@
+.container-about{
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-about p{
+    margin: 20px 0;
+}
+
+.container-about a{
+    text-decoration: none;
+    padding: 1rem;
+    transition: 800ms;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+.container-about a:hover{
+    background: blue;
+    color: white;
+}

@@ -1,0 +1,20 @@
+.container-detail{
+    padding: 3rem;
+    text-align: left;
+}
+
+.detail-img{
+    text-align: center;
+}
+
+.detail-img img{
+    width: 300px;
+}
+
+.detail-text p{
+    margin-top: 20px;
+}
+
+.detail-text h1{
+    margin-top: 20px;
+}
